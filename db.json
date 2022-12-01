@@ -1,3 +1,6 @@
 {
-  "users":[{"id":1, "data":"asasd"}]
+  "users":[{"id":1, "data":"asasd"}],
+  "profile": {
+    "name": "typicode"
+  }
 }
